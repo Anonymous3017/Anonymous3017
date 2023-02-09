@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anonymous3017
 - 👀 I’m interested in cyber security and AI/ML
-- 🌱 I’m currently learning AI/ML with practical hands-on DGX-A100 GPU
+- 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on real world projects 
 - 📫 How to reach me ...
 
