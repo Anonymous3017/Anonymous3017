@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anonymous3017
+- 👋 Hi, I’m Ayush
 - 👀 I’m interested in cyber security and AI/ML
 - 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on real world projects 
