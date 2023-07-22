@@ -28,10 +28,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ayush-gupta-838823227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayush-gupta-838823227/" height="30" width="40" /></a>
-<!-- <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21774838/ashish-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21774838/ashish-singh" height="30" width="40" /></a> -->
-<a href="https://www.instagram.com/ayushgupta7434/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ayushgupta7434/" height="30" width="40" /></a>
-<a href="https://leetcode.com/ayushgupta9592/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ayushgupta9592/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayush-gupta-838823227/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/ayush-gupta-838823227/" height="30" width="40" /></a>
+
+<a href="https://www.instagram.com/ayushgupta7434/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://www.instagram.com/ayushgupta7434/" height="30" width="40" /></a>
+<!-- <a href="https://leetcode.com/ayushgupta9592/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ayushgupta9592/" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -57,15 +57,15 @@
  </p>
 
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishtorq&show_icons=true&locale=en&layout=compact" alt="ashishtorq" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anonymous3017&show_icons=true&locale=en&layout=compact" alt="Anonymous3017" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishtorq&show_icons=true&locale=en" alt="ashishtorq" /></p> -->
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishtorq&show_icons=true&locale=en&layout=compact" alt="ashishtorq" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anonymous3017&show_icons=true&locale=en" alt="Anonymous3017" /></p> -->
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anonymous3017&show_icons=true&locale=en&layout=compact" alt="Anonymous3017" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishtorq&show_icons=true&locale=en" alt="ashishtorq" /></p> -->
-<!--- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishtorq&show_icons=true&locale=en&layout=compact" alt="ashishtorq" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anonymous3017&show_icons=true&locale=en" alt="Anonymous3017" /></p> -->
+<!--- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anonymous3017&show_icons=true&locale=en&layout=compact" alt="Anonymous3017" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishtorq&show_icons=true&locale=en" alt="ashishtorq" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anonymous3017&show_icons=true&locale=en" alt="Anonymous3017" /></p> -->
 <!--  This line of code is for no. of languages used in my github account -->
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anonymous3017&show_icons=true&locale=en&layout=compact" alt="Anonymous3017" /></p>
  
