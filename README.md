@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **AI/ML**
 
-- 🌱 I’m currently learning **WebML**
+- 🌱 I’m currently learning **DeepLearning**
 
 - 👯 I’m looking to collaborate on on real world projects
 
